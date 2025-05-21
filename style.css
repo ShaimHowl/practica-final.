@@ -1,0 +1,54 @@
+header{
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid rgb(248, 244, 244);
+    padding: 10px;
+    background-color: lightgrey;
+    margin: 15px;
+}
+
+
+
+.brawl p{
+  font-size: 20px;
+}
+
+.brawl{
+  border: 3px solid blue;
+  text-align: center;
+  background-color: lightyellow;
+  margin: 20px;
+ padding: 25px;
+  margin-right: 280px;
+ margin-left: 280px;
+}
+
+.brawl button{
+  font-size: 27px;
+  border: 3px solid black;
+  
+
+}
+
+.brawl button:hover{
+  color: blue;
+}
+
+.barra{
+  border: 1px solid blue;
+  text-align: center;
+  background-color: white;
+padding: 15px;
+ border-radius: 90px;
+ margin-right: 280px;
+ margin-left: 280px;
+
+}
+
+.barra h1{
+  font-size: 25px;
+  
+}
+body{
+  background-image: url(gaming1.jpeg);
+}
