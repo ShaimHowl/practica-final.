@@ -46,7 +46,7 @@
   .info{
       border: 6px solid black;
       margin: 3px;
-      padding: 0;
+      padding: 0px;
       background-color: beige;
   }
   
@@ -72,23 +72,17 @@
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    display: flex;
+    
     justify-content: center;
     align-items: center;
   }
   
-  .star {
-    font-size: 3rem;
-    color: white;
-    animation: fadeIn 3s ease-in forwards;
-    opacity: 0;
-  }
   
  
   
   .rotar {
-    margin-top: 2rem;
-    width: 200px;
+   
+    width: 100px;
     animation: spin 10s linear infinite;
   }
   
@@ -104,3 +98,6 @@
     margin-left: 780px;
     
  }
+.juego button:hover{
+    color: blue;
+}
