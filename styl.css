@@ -1,6 +1,99 @@
+body{
+    
+        background-image: url(fons.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-position: center; 
+
+}
 .ter h1{
     font-size: 50px;
 text-align: center;
 border: 5px solid black;
+margin-left: 350;
+margin-right: 350;
+background-color: lightgrey;
+}
+.atras button{
+    margin-top: -110px;
+    border: 2px solid black;
+}
+.atras button:hover{
+    color: blue;
+}
+.int h3{
+    margin: 25px;
+    color: white;
+}
+.int ul li{
+    color: white;
+    margin: 20px;
+    text-decoration: underline;
+}
+.img {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: 750;
+        margin-top: -260px;
+        width: 150px;
+      
+}
+.web{
+    display: block;
+        margin-left: auto;
+        margin-right: 550;
+        margin-top: -160px;
+        width: 150px;
+}
+.hipe{
+    display: block;
+    margin-left: auto;
+    margin-right: 550;
+    margin-top: 20px;
+    width: 130px;
+}
+.refu{
+    display: block;
+    margin-left: auto;
+    margin-right: 750;
+    margin-top: -150px;
+  
+}
+.contr{
+    margin: 25px;
+    color: white;
+}
+.contr ul li{
+    margin: 20px;
+    text-decoration: underline;
+}
+.apunt{
+    display: block;
+    margin-left: auto;
+    margin-right: 1200;
+    margin-top: -100px;
+    width: 130px;
+}
+.ult{
+    display: block;
+    margin-left: auto;
+    margin-right: 1000;
+    margin-top: -135px;
+    width: 130px;
+}
+.move{
+    display: block;
+    margin-left: auto;
+    margin-right: 800;
+    margin-top: -135px;
+    width: 130px;
+}
+.cal{
+margin: 20;
 
+
+}
+.cal h3{
+    color: white;
 }
