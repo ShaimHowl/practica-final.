@@ -97,3 +97,7 @@ margin: 20;
 .cal h3{
     color: white;
 }
+.calid{
+    border-radius: 20px;
+    margin-left: 60px;
+}
