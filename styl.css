@@ -1,9 +1,7 @@
 body{
     
         background-image: url(fons.jpeg);
-        background-repeat: no-repeat;
-        background-size: cover; 
-        background-position: center; 
+    
 
 }
 .ter h1{
@@ -17,12 +15,15 @@ background-color: lightgrey;
 .atras button{
     margin-top: -110px;
     border: 2px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+
 }
 .atras button:hover{
     color: blue;
 }
 .int h3{
-    margin: 25px;
+    margin: 15px;
     color: white;
 }
 .int ul li{
@@ -98,6 +99,25 @@ margin: 20;
     color: white;
 }
 .calid{
+    display: block;
+    margin-left: auto;
+    margin-right: 1300;
+    margin-top: -195px;
+    width: 150px;
     border-radius: 20px;
-    margin-left: 60px;
+}
+.cal ul li {
+    margin: 10px;
+    color: white;
+    text-decoration: underline;
+}
+.juga button{
+    
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 10px;
+    
+}
+.juga button:hover{
+    color: blue;
 }

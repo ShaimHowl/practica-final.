@@ -1,0 +1,72 @@
+body{
+    background-color: lightblue;
+}
+header{
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 150;
+    margin-right: 150;
+    background-color: lightgrey;
+
+}
+header h1{
+    font-size: 30px;
+}
+.atras button{
+    margin-top: -80px;
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.atras button:hover{
+    color: blue;
+}
+.ika{
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+}
+.ikaoss{
+    height: 150px;
+}
+.sit{
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: 330;
+    margin-top: -338;
+}
+.si{
+    height: 150px;
+}
+.gui{
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: 660;
+    margin-top: -338;
+}
+.guille{
+    height: 150px;
+}
+.Boss{
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: 990;
+    margin-top: -360;
+}
+.bo{
+    height: 150px;
+}
+.juan{
+    border: 3px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: 1330;
+    margin-top: -360;
+}
+.jua{
+    height: 150px;
+}
+    

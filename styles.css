@@ -96,7 +96,8 @@
     border: 3px solid black;
     margin-right: 780px;
     margin-left: 780px;
-    
+    border-radius: 10px;
+    background-color: yellow;
  }
 .juego button:hover{
     color: blue;
